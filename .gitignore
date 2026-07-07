@@ -3,3 +3,14 @@
 .vscode/c_cpp_properties.json
 .vscode/launch.json
 .vscode/ipch
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Compiled binaries (just in case)
+*.bin
+*.elf
+
+# FUTURE: Real credentials (Add this when you create your secrets file)
+secrets.h
